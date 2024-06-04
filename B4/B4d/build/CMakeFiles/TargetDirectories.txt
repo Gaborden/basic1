@@ -1,0 +1,7 @@
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/exampleB4d.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/edit_cache.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/rebuild_cache.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/list_install_components.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/install.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/install/local.dir
+/home/genevieve/opt/basic/B4/B4d/build/CMakeFiles/install/strip.dir
